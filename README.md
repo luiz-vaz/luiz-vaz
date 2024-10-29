@@ -1,7 +1,7 @@
 ## Prazer! Eu sou o Luiz Vaz 👋
 
 ### 🧑‍💻 Sobre mim
-Com mais de 10 anos de experiência em suporte a infraestrutura e um foco recente em BI e análise de dados, estou em constante aprimoramento para criar soluções  que auxiliem empresas a tomarem decisões com mais precisão.
+Com mais de 10 anos de experiência em suporte e infraestrutura, um foco recente em análise de dados, estou em constante aprimoramento para criar soluções  que auxiliem empresas a tomarem decisões com mais precisão.
 
 ## 🔍 Projetos Recentes
 
