@@ -1,12 +1,27 @@
 ## Prazer! Eu sou o Luiz Vaz 👋
 
 ### 🧑‍💻 Sobre mim
-Com mais de 10 anos de experiência em suporte e infraestrutura, um foco recente em análise de dados, estou em constante aprimoramento para criar soluções  que auxiliem empresas a tomarem decisões com mais precisão.
+Busco atuar em Engenharia de Dados aplicando minha experiência em TI, automação de processos e construção de pipelines em Python e SQL. Utilizo meus conhecimentos em Spark, Hadoop, Hive, Hudi, Docker, Git e ambientes AWS/Azure para desenvolver soluções de dados eficientes, escaláveis e com impacto real.
 
-## 🔍 Projetos Recentes
+## 🔍 Projetos & Comunidade 
 
-**Relatório de Vendas em Power BI**: [Veja o projeto](https://github.com/luiz-vaz/projeto-dio-powerbi-relatorio-modulo5)  
-  Realizei a construção do projeto através de um projeto star schema. Esse relatório foi elaborado para fornecer uma base sólida para a tomada de decisões, identificando os principais segmentos e regiões de crescimento.
+** Mentoria em Engenharia de Dados **: [Veja o projeto](https://github.com/mentoria-edu)  
+ Participante de um grupo de estudos orientado por um Tech Lead em Engenharia de Dados, onde são desenvolvidos projetos práticos em uma plataforma de big data, seguindo boas práticas de arquiteturas, casos reais do mercado e acompanhamento de tendências em Big Data e Cloud.
+ Desenvolvimento de Plataforma de Dados (Open Source) - 03/2025
+
+Participação na construção de uma plataforma de dados real construída em ambiente containerizado com Docker e orquestrada via Docker Compose, utilizando exclusivamente ferramentas open source amplamente consolidadas no mercado.
+
+Componentes da arquitetura:
+
+•	Armazenamento: Hadoop HDFS
+•	Gerenciamento de Cluster: Hadoop YARN
+•	Engine de Processamento: Apache Spark
+•	Metadados: Hive Metastore
+•	Banco de Dados de Apoio: PostgreSQL (para armazenamento do Hive Metastore)
+•	Framework de gerenciamento de tabelas: Hudi
+•	Conteinerização: Docker
+•	Orquestrador de Container: Docker Compose
+
 
 ## 🛠️ Habilidades
 
