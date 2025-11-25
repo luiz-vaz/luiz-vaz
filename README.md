@@ -5,7 +5,7 @@ Busco atuar em Engenharia de Dados aplicando minha experiência em TI, automaç�
 
 ## 🔍 Projetos & Comunidade 
 
-** Mentoria em Engenharia de Dados **: [Veja o projeto](https://github.com/mentoria-edu)  
+**Mentoria em Engenharia de Dados**: [Veja o projeto](https://github.com/mentoria-edu)  
  Participante de um grupo de estudos orientado por um Tech Lead em Engenharia de Dados, onde são desenvolvidos projetos práticos em uma plataforma de big data, seguindo boas práticas de arquiteturas, casos reais do mercado e acompanhamento de tendências em Big Data e Cloud.
  Desenvolvimento de Plataforma de Dados (Open Source) - 03/2025
 
